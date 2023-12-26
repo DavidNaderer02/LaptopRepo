@@ -1,2 +1,0 @@
-C:\Users\LENOVO\OneDrive\Desktop\FileAPI\HomeWorkManagment
-.api=C:\Users\LENOVO\OneDrive\Desktop\FileAPI\FileConfiguration\.api\config
